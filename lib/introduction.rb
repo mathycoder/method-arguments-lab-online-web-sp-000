@@ -1,5 +1,5 @@
 def introduction (name)
-  puts "#{name} is pretty cool."
+  puts "Hi, my name is #{name}."
 end 
 
 introduction ("Adam")

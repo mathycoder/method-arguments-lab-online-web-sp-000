@@ -7,4 +7,4 @@ def introduction_with_language (name, language)
 end 
 
 
-introduction("Adam", "Ruby")
+introduction_with_language("Adam", "Ruby")
